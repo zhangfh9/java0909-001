@@ -5,8 +5,4 @@ hello class
 	{
 		System.out.println("Hello World!");
 	}
-//测试哈哈哈哈
-	public String test(){
-		System.out.println("阿利亚卡痛");
-	}
 }
